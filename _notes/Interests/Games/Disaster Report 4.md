@@ -2,7 +2,7 @@
 title: Disaster Report 4 - Summer Memories
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/en/5/56/Disaster_Report_4.png" alt="Disaster Report 4 Cover Page">
+<img src="https://upload.wikimedia.org/wikipedia/en/5/56/Disaster_Report_4.png" alt="Disaster Report 4 Cover Page" width="200" align="center">
 
 - Platform: PC/Switch/PS4
 - Developer: Granzella

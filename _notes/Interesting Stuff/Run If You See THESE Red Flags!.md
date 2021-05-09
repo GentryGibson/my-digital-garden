@@ -3,6 +3,10 @@ title: Run If You See THESE Red Flags!
 ---
 Source: [YouTube](https://www.youtube.com/watch?v=IXO3jaNYpoQ)
 
+**Table of Contents**
+* TOC
+{:toc}
+
 ## How Do You Know If a Lead is Not Qualified?
 ---
 

@@ -1,7 +1,11 @@
 ---
 title: How to Use Fyodor
 ---
-Link: [GitHub](https://github.com/rccavalcanti/fyodor)
+Source: [GitHub](https://github.com/rccavalcanti/fyodor)
+
+**Table of Contents**
+* TOC
+{:toc}
 
 ## How to Install Fyodor
 ---
