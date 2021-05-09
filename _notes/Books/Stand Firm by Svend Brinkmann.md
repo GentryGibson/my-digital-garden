@@ -4,7 +4,7 @@ title: Stand Firm by Svend Brinkmann
 
 <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489689580l/34609316._SY475_.jpg" alt="Book Cover">
 
-- Full title: Stand Firm:
+- Full title: Stand Firm: Resisting the Self-Improvement Craze
 - Author: Svend Brinkmann
 - [Book link](https://www.amazon.com/Stand-Firm-Resisting-Self-Improvement-Craze/dp/1509514260)
 

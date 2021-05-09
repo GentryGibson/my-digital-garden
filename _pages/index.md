@@ -11,7 +11,8 @@ This is my digital garden. Feel free to look around.
 
 > 🧭 How to navigate: Click on a hub under Hub Worlds to get an index view of notes sorted by its category.
 
-## Hub Worlds
+## Hub Worlds 🌎
+- <a class="internal-link" href="/about">About 🐈</a>
 - [[00 Books Hub|Books Hub 📚]]
 - [[00 Interests Hub|Interests Hub 🤔]]
 - [[00 Tutorials Hub|Tutorials Hub 🛠️]]
