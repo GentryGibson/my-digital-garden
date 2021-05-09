@@ -5,9 +5,9 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Land Ho! 🏴‍☠️
 
-This is my digital garden. Feel free to look around.
+Welcome to my digital cove (or garden for ye landlubbers). Feel free to look around.
 
 > 🧭 How to navigate: Click on a hub under Hub Worlds to get an index view of notes sorted by its category.
 
