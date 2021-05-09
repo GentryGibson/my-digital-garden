@@ -1,0 +1,54 @@
+---
+title: Quiet by Susan Cain
+---
+
+<img src="https://upload.wikimedia.org/wikipedia/en/1/1e/QuietBookCover.jpg" alt="Book Cover">
+
+- Full title: Quiet: The Power of Introverts in a World that Can't Stop Talking
+- Author: Susan Cain
+- [Book link](https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153)
+
+
+
+
+## 🖊️ Literature Notes
+---
+
+
+### On Individuality
+- We like individuality but not the kind that makes us look like loners or "anti-socials". Instead, society prefers the type that "puts oneself out there".
+	- Because of this, introversion (along with shyness, seriousness, and sensitivity) has been sometimes seen as a pathology or things that you have to overcome or fix.
+
+### Culture of Character vs. Culture of Personality
+- Culture of Character = What's important are the good deeds that you do when no one is looking.
+	- The 1899 pamphlet called Character: The Grandest Thing in the World teaches that
+- Culture of Personality = All about charisma and being magnetic. Focusing on how others perceived them
+	- The rise of big businesses means that more and more people need to prove themselves and so, having charisma was needed to compete
+		- Around this time, a guy named Dale Carnegie released How to Win Friends and Influence People as a guide for that. Compare the two books and notice how the other one is still remains a bestseller to this day.
+		- The rise of movie stars and celebrities may have contributed to this phenomena. These people are the embodiment of the Culture of Personality and the common people look up to them for inspiration
+- We need leaders who build the institutions that they run. No need for giant personalities and egos to do that.
+
+### Extroverts vs. Introverts
+- Extroverted leaders tend to put their own stamp on things and be dominant. This leads to the underlings to not share their good ideas and also allows passivity
+- Introverted leaders allow their underlings to do their thing. This delivers better outcomes only if the underlings are proactive.
+- Introverts prefer to work independently and in solitude
+- When you're alone, you can do things in Deliberate Practice mode. This "mode" allows you to focus and is the key to exceptional achievement
+	- Teenagers dread being alone and because of this, they fail to cultivate their talents.
+	- Things such as practicing music or studying requires solitude.
+
+### Corporate Myths
+- Open-plan offices are bad. They reduce productivity and impair memory and is associated with high staff turnover.
+- Being interrupted is the biggest barrier of productivity
+- Multitasking is a myth, despite corporations valuing them as a skill.
+	- The brain is incapable of paying attention to two things at the same time
+	- What "multitasking" is just switching from one task to another and that reduces productivity and increases mistakes by up to 50%.
+- Participating in a online working group is a form of solitude on its own. 
+	- Which makes you wonder why extroverts cannot take zoom calls for a long time (This passage is written in 2021, still with the pandemic)
+
+### On Brainstorming
+- Brainstorming has four rules:
+	1. Don't judge or criticize ideas.
+	2. Be freewheeling. The wilder the idea, the better.
+	3. Go for quantity. The more ideas you have, the better.
+	4. Build on the ideas of fellow group members.
+
