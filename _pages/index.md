@@ -16,6 +16,8 @@ Welcome to my digital cove (or garden for ye landlubbers). Feel free to look aro
 - [[00 Books Hub|Books Hub 📚]]
 - [[00 Interests Hub|Interests Hub 🤔]]
 - [[00 Tutorials Hub|Tutorials Hub 🛠️]]
+- [[00 Writings Hub|Writings Hub 🖊️]]
+
 
 <div class="grid-element">
   <h2>Notes 👨‍💻</h2>

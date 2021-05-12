@@ -1,7 +1,10 @@
 ---
 title: Bad Client Red Flags and Warning Signs
+source: https://www.youtube.com/watch?v=7IwTua4AaRY
 ---
-Source:  [YouTube](https://www.youtube.com/watch?v=7IwTua4AaRY)
+These are notes that I took from The Futur's video on avoiding bad clients. This is like a long-form version of [[Run If You See THESE Red Flags!]].
+
+Source: [YouTube]({{ page.source }})
 
 ## Notes from tsdcusa's comment
 ---

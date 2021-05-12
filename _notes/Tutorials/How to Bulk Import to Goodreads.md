@@ -1,7 +1,7 @@
 ---
 title: How to Bulk Import to Goodreads
 ---
-Source: [GitHub](https://github.com/rccavalcanti/fyodor)
+
 
 **Table of Contents**
 * TOC

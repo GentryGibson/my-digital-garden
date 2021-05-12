@@ -1,6 +1,8 @@
 ---
 title: How to Use Fyodor
 ---
+This is just a note on how to install and use Fyodor for Windows.
+
 Source: [GitHub](https://github.com/rccavalcanti/fyodor)
 
 **Table of Contents**

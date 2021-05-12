@@ -1,7 +1,10 @@
 ---
 title: Run If You See THESE Red Flags!
+source: https://www.youtube.com/watch?v=IXO3jaNYpoQ
 ---
-Source: [YouTube](https://www.youtube.com/watch?v=IXO3jaNYpoQ)
+These are notes that I took from The Futur's video on avoiding bad clients. Useful advice for freelancers.
+
+Source: [YouTube]({{ page.source }})
 
 **Table of Contents**
 * TOC

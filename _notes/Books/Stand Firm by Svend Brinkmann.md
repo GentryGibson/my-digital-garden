@@ -1,12 +1,19 @@
 ---
 title: Stand Firm by Svend Brinkmann
+full-title: Stand Firm - Resisting the Self-Improvement Craze
+author: Svend Brinkmann
+date-read: 2021-03-28
+book-link: https://www.amazon.com/Stand-Firm-Resisting-Self-Improvement-Craze/dp/1509514260
+image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489689580l/34609316._SY475_.jpg
+note-category: book
 ---
 
-<img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489689580l/34609316._SY475_.jpg" alt="Book Cover" width="200">
+<img src="{{page. image}}" alt="Book Cover" width="200">
 
-- Full Title: Stand Firm: Resisting the Self-Improvement Craze
-- Author: Svend Brinkmann
-- [Book link](https://www.amazon.com/Stand-Firm-Resisting-Self-Improvement-Craze/dp/1509514260)
+- Full Title: {{ page.full-title }}
+- Author: {{ page.author }}
+- Date Read: {{ page.date-read }}
+- [Amazon link]({{ page.book-link }})
 
 
 ## 📑 Kindle Highlights

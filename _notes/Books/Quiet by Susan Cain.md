@@ -1,12 +1,22 @@
 ---
 title: Quiet by Susan Cain
+full-title: Quiet - The Power of Introverts in a World that Can't Stop Talking
+author: Susan Cain
+date-read: 2019-02-05
+book-link: https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153
+image: https://upload.wikimedia.org/wikipedia/en/1/1e/QuietBookCover.jpg
+note-category: book
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/en/1/1e/QuietBookCover.jpg" alt="Book Cover" width="200">
+<img src="{{page. image}}" alt="Book Cover" width="200">
 
-- Full Title: Quiet: The Power of Introverts in a World that Can't Stop Talking
-- Author: Susan Cain
-- [Book link](https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153)
+- Full Title: {{ page.full-title }}
+- Author: {{ page.author }}
+- Date Read: {{ page.date-read }}
+- [Amazon link]({{ page.book-link }})
+
+
+---
 
 **Table of Contents**
 * TOC
