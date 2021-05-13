@@ -38,8 +38,8 @@ title: Reading and Highlighting - A Case Study
 		- Refer to [Zotero & Obsidian Workflow](https://www.youtube.com/watch?v=_Fjhad-Z61o&list=PL5fd4SsfvECy0zzf8Cyo20ZoipEt6YeL3&index=2) for a video tutorial
 - **Step 4:** Paraphrase the highlighted notes
 	- Most tedious part as it maximizes thought process but worth the time.
-	- Add highlights and paraphrased parts (book report) under [[00 Books Hub | Books]]
-	- Add journal articles (the one from Zotero) under [[00 Academic Journals | Academic Journals]]
-	- Add web articles and videos under [[00 Interesting Stuff | Interesting Stuff]]
+	- Add highlights and paraphrased parts (book report) under Books Hub.
+	- Add journal articles (the one from Zotero) under Academic Journals Hub.
+	- Add web articles and videos under Interesting Stuff.
 - **Optional:** Sync Zotero PDFs on iPad
 	- Refer to [Zotero & iPad Workflow](https://www.youtube.com/watch?v=e7novaC_O_Y&list=PL5fd4SsfvECy0zzf8Cyo20ZoipEt6YeL3) for a video tutorial

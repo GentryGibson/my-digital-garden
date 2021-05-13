@@ -9,6 +9,8 @@ Here you can find some of my writings on random stuff.
 Case studies are notes on how I tackled a specific problem and created a solution for it. 
 - [[Case Study Reading and Highlighting|Reading and Highlighting - A Case Study]]
     - [[Case Study Reading and Highlighting 2|Reading and Highlighting 2 - A Case Study]]
+- [[My Failed Journey to Create a Personal Website]]
+
 
 ## Ideas 💡
 ---

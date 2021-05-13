@@ -5,7 +5,8 @@ author: Svend Brinkmann
 date-read: 2021-03-28
 book-link: https://www.amazon.com/Stand-Firm-Resisting-Self-Improvement-Craze/dp/1509514260
 image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489689580l/34609316._SY475_.jpg
-note-category: book
+categories: books
+permalink: /:categories/:title
 ---
 
 <img src="{{page. image}}" alt="Book Cover" width="200">
@@ -14,6 +15,38 @@ note-category: book
 - Author: {{ page.author }}
 - Date Read: {{ page.date-read }}
 - [Amazon link]({{ page.book-link }})
+
+
+## 📔 Book Report
+---
+### 🚀 Summary
+This is a "rebellious" book that argues that mobility and constant change is detrimental to everyone. It leads to some people feeling unsatisfied with what they have and to others, a burnout.
+
+Instead of seeking "life coaches", always saying yes, and adopting positive thinking, standing firm and practicing some Stoicism are the best antidotes to these problems.
+
+
+### 🎨 Impressions
+I thought this was one of those books that go against the tide of self-help books that say the same thing. Much like Quiet, this is another one of those "breath of fresh air" books.
+
+I do like how it criticized one of the well-known inspirational quotes from the self-help genres. That quote is this: <i>Success is doing what you want, when you want, where you want, with whom you want, as much as you want.</i> If you take this to the extreme it may seem like it is encouraging you to use people as a means to get to that so-called success.
+
+
+Be prepared to get your views challenged as you read this book.
+
+
+### ☘ How the Book Changed Me
+I may have not realized I fell into the rabbit hole of constant self-improvement. I was always watching videos and reading books about this topic or ways to improve my skills. This has probably led me in a previous bout of burnout and a lingering feeling of being unsatisfied. 
+
+A healthy dose of "I can do this better" is good but if driven too far it can lead to one turning to self-flagellation when you cannot reach that goal.
+
+ In a way, this book made me feel better on not always changing to fit with the demands of "life in the fast lane". 
+
+
+### ✍️ My Top 3 Quotes
+- Look for role models who have put down roots. Insist on the right to stand still.
+- Many people, unfortunately, buy into the idea that they can ‘do anything’ (an idea foisted on the young in particular), so self-flagellation is a perfectly understandable reaction when their efforts prove inadequate. If you can do anything, then it must be your fault if success proves elusive in work or love.
+- If comfort is all you know, and have ever known, it becomes extremely difficult to endure the discomfort that we inevitably encounter at some point in our lives, e.g. when we are sick and old, or when we lose someone close or something valuable.
+
 
 
 ## 📑 Kindle Highlights

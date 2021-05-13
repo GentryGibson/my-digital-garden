@@ -5,7 +5,8 @@ author: Meg Jay
 date-read: 2018-06-01 & 2021-03-27
 book-link: https://www.amazon.com/Defining-Decade-Your-Twenties-Matter/dp/0446561754
 image: https://images-na.ssl-images-amazon.com/images/I/81Zm61BJd-L.jpg
-note-category: book
+categories: books
+permalink: /:categories/:title
 ---
 
 <img src="{{page. image}}" alt="Book Cover" width="200">

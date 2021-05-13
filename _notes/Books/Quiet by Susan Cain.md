@@ -5,7 +5,8 @@ author: Susan Cain
 date-read: 2019-02-05
 book-link: https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153
 image: https://upload.wikimedia.org/wikipedia/en/1/1e/QuietBookCover.jpg
-note-category: book
+categories: books
+permalink: /:categories/:title
 ---
 
 <img src="{{page. image}}" alt="Book Cover" width="200">
@@ -33,10 +34,12 @@ My first thought upon seeing this book is "finally there's a book about the thin
 ### ☘ How the Book Changed Me
 This book gave me the feeling that "I am not alone at experiencing this.".
 
+
 ### ✍️ My Top 3 Quotes
 - We don't need giant personalities to transform companies. We need leaders who build not their own egos but the institutions they run.
 - Don't mistake assertiveness or eloquence for good ideas.
 - True self-esteem comes from competence, not the other way around.
+
 
 
 ## 🖊️ Literature Notes

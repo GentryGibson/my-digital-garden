@@ -5,7 +5,8 @@ author: Jean M. Twenge
 date-read: 2019-05-27
 book-link: https://www.amazon.com/iGen-Super-Connected-Rebellious-Happy-Adulthood/dp/1501151983
 image: https://prodimage.images-bn.com/pimages/9781501152016_p0_v5_s550x406.jpg
-note-category: book
+categories: books
+permalink: /:categories/:title
 ---
 
 <img src="{{page. image}}" alt="Book Cover" width="200">
@@ -26,17 +27,21 @@ note-category: book
 ## 📔 Book Report
 ---
 ### 🚀 Summary
-
+This is a book about the iGen (or Generation Z) and how they are compared to the previous generation.
 
 ### 🎨 Impressions
-The book reads like a scientific paper and it 
+The book reads like a scientific paper so some readers may find it a little boring to read. Nevertheless, it does provide insight to the generation that we now call Generation Z (the book calls them iGen instead hence the title.)
+
+The book refers to scientific studies that are based in America so many of the situations and advices may be US-centric.
 
 ### ☘ How the Book Changed Me
+Reading this book made me realize that I fit in the generation that the book describes, so this felt like understanding a part of me that I did not know of.
 
 
 ### ✍️ My Top 3 Quotes
-
-
+- Cultural change also has many causes, not just one—it’s not just parents, but technology, media, business, and education working together to create an entire culture that is radically different from the one our parents and grandparents experienced. It’s nobody’s fault or everybody’s fault. Cultures change, and generations change with them; that’s the important point. It’s not a contest to see which generation is worse (or better); the culture has changed, and we’re all in this together.
+- Thirteen-year-olds—and even 18-year-olds—are less likely to act like adults and spend their time like adults. They are more likely, instead, to act like children—not by being immature, necessarily, but by postponing the usual activities of adults. Adolescence is now an extension of childhood rather than the beginning of adulthood.
+- This is the dark side of tolerance; it begins with the good intentions of including everyone and not offending anyone but ends (at best) with a reluctance to explore deep issues and (at worst) with careers destroyed by a comment someone found offensive and the silencing of all alternative viewpoints.
 
 ## 📑 Kindle Highlights
 ---
@@ -136,9 +141,6 @@ The book reads like a scientific paper and it
 
 <p style="text-align: right;"><sup>highlight @ loc. 2653-2656</sup></p>
 
-* However, iGen’ers have continued the Millennials’ trend toward saying they don’t want to work hard. Apparently, iGen’ers know that they may have to work overtime, but they believe that many
-
-<p style="text-align: right;"><sup>highlight @ loc. 2654-2655</sup></p>
 
 * iGen’ers are caught in a bind: they need to get a college education to get ahead, but they have to take out hefty student loans to pay for it. No wonder they are exhausted and just want a job—any job that can pay off their loans.
 

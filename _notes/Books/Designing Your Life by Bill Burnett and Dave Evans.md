@@ -5,7 +5,8 @@ author: Bill Burnett and Dave Evans
 date-read: Currently Reading
 book-link: https://www.amazon.com/Designing-Your-Life-Well-Lived-Joyful/dp/1101875321
 image: https://images-na.ssl-images-amazon.com/images/I/81AE76v5odL.jpg
-note-category: book
+categories: books
+permalink: /:categories/:title
 ---
 
 <img src="{{page. image}}" alt="Book Cover" width="200">

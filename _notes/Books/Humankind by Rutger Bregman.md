@@ -5,7 +5,8 @@ author: Rutger Bregman
 date-read: 2020-12-27
 book-link: https://www.amazon.com/Humankind-Hopeful-History-Rutger-Bregman/dp/0316418536
 image: https://media.bloomsbury.com/rep/bj/9781408898932.jpg
-note-category: book
+categories: books
+permalink: /:categories/:title
 ---
 
 <img src="{{page. image}}" alt="Book Cover" width="200">
@@ -31,12 +32,20 @@ The book's core message is this: humans do not turn into savages when crisis hit
 ### 🎨 Impressions
 I have some mixed thoughts about this book. It is well-written and entertaining but I am half-convinced of the author's message. 
 
-I do like how the author debunks many of the stories that exemplify the Veneer Theory.
+The message of the book is good although I do not think it can be applied in a country or society that's in too deep in cynicism that its people are in a borderline learned helplessness state.
+
+I do like how the author debunks many of the stories that exemplify the Veneer Theory. This theory states that humans revert back to their savage roots when there is a crisis. The author argues against this by sharing stories per chapter.
+
+The first story in the book is about a real-life Lord of the Flies scenario but it did not go down the same way as the novel.
+
+The succeeding chapters follow the same format: share a story that perpetuates the Veneer Theory and then show how it wasn't the case. It may seem repetitive but the author managed to make it engaging and leaves you flipping through to know why.
 
 
 ### ☘ How the Book Changed Me
-In some way, the book made me a little less cynical. When the author equated being cynical with being lazy and not taking responsibility, it felt like I found a some sort of missing link. "Are there some examples to support that claim?" I said to myself as I read that passage.
+The book made me think a lot on how I perceived things.
+In some way, it made me a little less cynical. 
 
+When the author equated being cynical with being lazy and not taking responsibility, it felt like I found a some sort of missing link. "Are there some examples to support that claim?" I said to myself as I read that passage.
 
 
 
@@ -45,6 +54,11 @@ In some way, the book made me a little less cynical. When the author equated bei
 - Never let yourself be diverted by what you wish to believe.
 - Cynicism is just another word for laziness. It’s an excuse not to take responsibility. Because if you believe most people are rotten, you don’t need to get worked up about injustice. The world is going to hell either way.
 
+
+### 🥰 Who Would Like It?
+I think anyone who wants their views to get challenged would want to read something like this. It gives you a different perspective in life from an author who has an optimistic view.
+
+Anyone who has read at least one Malcolm Gladwell book may find the writing style similar and might even like it.
 
 
 ## 📑 Kindle Highlights
