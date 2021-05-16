@@ -16,6 +16,11 @@ permalink: /:categories/:title
 - Date Read: {{ page.date-read }}
 - [Amazon link]({{ page.book-link }})
 
+---
+**Table of Contents**
+* TOC
+{:toc}
+
 
 ## 📔 Book Report
 ---

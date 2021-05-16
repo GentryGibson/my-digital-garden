@@ -4,15 +4,17 @@ title: Books Hub 📚
 
 Here you can find a list of some of the books I've read.
 
-- [[Quiet by Susan Cain]]
+- [[How to Take Smart Notes by Sonke Ahrens]]
 - [[Stand Firm by Svend Brinkmann]]
+- [[Humankind by Rutger Bregman]]
 - [[The Defining Decade by Meg Jay]]
 - [[iGen by Jean M. Twenge]]
-- [[Humankind by Rutger Bregman]]
+- [[Quiet by Susan Cain]]
+
 
 
 ### Currently Reading 📖
-- [[How to Take Smart Notes by Sonke Ahrens]]
+
 - [[Dialogues and Essays by Seneca]]
 - [[Designing Your Life by Bill Burnett and Dave Evans]]
 - [[The Productivity Project by Chris Bailey]]
@@ -32,8 +34,8 @@ A reading plan helps me curate books based on a certain theme or topic. I keep a
 - [Show Your Work by Austin Kleon](https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X/ref=sr_1_1?dchild=1&keywords=Show+Your+Work&qid=1620915414&s=books&sr=1-1)
 - [The Practice: Shipping Creative Work by Seth Godin](https://www.amazon.com/Practice-Shipping-Creative-Work-ebook/dp/B088QLT891/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1620915810&sr=1-1)
 ### Self-Improvement 🎖️
-- [How Should We Live? Great Ideas from the Past for Everyday Life](Roman Krznaric)
-- [Make Time: How to Focus on What Matters Everyday](Jake Knapp & John Zaratsky)
+- [How Should We Live? Great Ideas from the Past for Everyday Life by Roman Krznaric](https://www.amazon.com/How-Should-We-Live-Everyday/dp/1629190047)
+- [Make Time: How to Focus on What Matters Everyday by Jake Knapp & John Zeratsky](https://www.amazon.com/Make-Time-Focus-Matters-Every/dp/0525572422)
 - [How to Grow Old: Ancient Wisdom for the Second Half of Life by Cicero](https://www.amazon.com/How-Grow-Old-Ancient-Readers/dp/0691167702/ref=sr_1_1?dchild=1&keywords=How+to+Grow+Old%3A+Ancient+Wisdom+for+the+Second+Half+of+Life&qid=1620915554&s=books&sr=1-1)
 
 ### All About Pirates 🏴‍☠️

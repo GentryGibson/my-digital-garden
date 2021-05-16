@@ -15,3 +15,6 @@ _includes/notes_graph.json
 .obsidian/
 .obsidian/workspace
 .obsidian/config
+
+# Obsidian Template
+_notes/_templates
