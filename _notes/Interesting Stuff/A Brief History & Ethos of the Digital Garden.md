@@ -2,6 +2,7 @@
 title: A Brief History & Ethos of the Digital Garden
 source: https://maggieappleton.com/garden-history
 ---
+[Source link]({{ page.source }})
 
 ## 🖊️ Literature Notes
 ---

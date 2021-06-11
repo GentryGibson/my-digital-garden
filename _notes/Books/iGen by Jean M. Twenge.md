@@ -27,7 +27,10 @@ permalink: /:categories/:title
 ## 📔 Book Report
 ---
 ### 🚀 Summary
-This is a book about the iGen (or Generation Z) and how they are compared to the previous generation.
+This is a book about the iGen (or Generation Z) and how they are compared to the previous generation (Millennials).
+
+### 🥰 Who Would Like It?
+Anyone who seeks to understand the iGen (Generation Z) or just curious about that said generation's behaviors will find this book enlightening.
 
 ### 🎨 Impressions
 The book reads like a scientific paper so some readers may find it a little boring to read. Nevertheless, it does provide insight to the generation that we now call Generation Z (the book calls them iGen instead hence the title.)

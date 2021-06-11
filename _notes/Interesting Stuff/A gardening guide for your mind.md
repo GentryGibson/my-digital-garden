@@ -3,6 +3,7 @@ title: A gardening guide for your mind
 source: https://www.mentalnodes.com/a-gardening-guide-for-your-mind
 ---
 
+[Source link]({{ page.source }})
 
 ## 🖊️ Literature Notes
 ---

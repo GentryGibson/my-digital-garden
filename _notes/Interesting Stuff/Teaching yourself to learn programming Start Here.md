@@ -3,6 +3,8 @@ title: Teaching yourself to learn programming? Start Here!
 source: https://www.youtube.com/watch?v=GiUDWx9NpMU
 ---
 
+Source: [YouTube]({{ page.source }})
+
 ## 1. Keep Things Simple
 ---
 

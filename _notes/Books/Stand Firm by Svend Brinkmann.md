@@ -29,6 +29,9 @@ This is a "rebellious" book that argues that mobility and constant change is det
 
 Instead of seeking "life coaches", always saying yes, and adopting positive thinking, standing firm and practicing some Stoicism are the best antidotes to these problems.
 
+### 🥰 Who Would Like It?
+Anyone who finds themselves seeking self-improvement through self-help books, motivational videos, life-coaching, and other similar media may find this book useful. It gives a different perspective on how to approach life matters that does not boil down to "just be yourself" or "follow your dreams".
+
 
 ### 🎨 Impressions
 I thought this was one of those books that go against the tide of self-help books that say the same thing. Much like Quiet, this is another one of those "breath of fresh air" books.

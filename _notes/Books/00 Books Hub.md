@@ -33,6 +33,7 @@ A reading plan helps me curate books based on a certain theme or topic. I keep a
 - [Steal Like An Artist by Austin Kleon](https://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253/ref=sr_1_1?dchild=1&keywords=Steal+Like+An+Artist&qid=1620915397&s=books&sr=1-1)
 - [Show Your Work by Austin Kleon](https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X/ref=sr_1_1?dchild=1&keywords=Show+Your+Work&qid=1620915414&s=books&sr=1-1)
 - [The Practice: Shipping Creative Work by Seth Godin](https://www.amazon.com/Practice-Shipping-Creative-Work-ebook/dp/B088QLT891/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1620915810&sr=1-1)
+
 ### Self-Improvement 🎖️
 - [How Should We Live? Great Ideas from the Past for Everyday Life by Roman Krznaric](https://www.amazon.com/How-Should-We-Live-Everyday/dp/1629190047)
 - [Make Time: How to Focus on What Matters Everyday by Jake Knapp & John Zeratsky](https://www.amazon.com/Make-Time-Focus-Matters-Every/dp/0525572422)

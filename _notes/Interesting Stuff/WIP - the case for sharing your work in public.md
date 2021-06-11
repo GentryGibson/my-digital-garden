@@ -3,6 +3,7 @@ title: WIP - the case for sharing your work in public
 source: https://nesslabs.com/work-in-public
 ---
 
+[Source link]({{ page.source }})
 
 
 ## 🖊️ Literature Notes

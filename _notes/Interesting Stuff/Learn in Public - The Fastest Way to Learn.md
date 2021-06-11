@@ -3,6 +3,7 @@ title: Learn in Public - The Fastest Way to Learn
 source: https://www.swyx.io/learn-in-public/
 ---
 
+[Source link]({{ page.source }})
 
 ## 🖊️ Literature Notes
 ---

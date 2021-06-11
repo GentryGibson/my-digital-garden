@@ -36,7 +36,7 @@ The message of the book is good although I do not think it can be applied in a c
 
 I do like how the author debunks many of the stories that exemplify the Veneer Theory. This theory states that humans revert back to their savage roots when there is a crisis. The author argues against this by sharing stories per chapter.
 
-The first story in the book is about a real-life Lord of the Flies scenario but it did not go down the same way as the novel.
+For example, the first story in the book is about a real-life Lord of the Flies scenario that did not go down the same way as the novel.
 
 The succeeding chapters follow the same format: share a story that perpetuates the Veneer Theory and then show how it wasn't the case. It may seem repetitive but the author managed to make it engaging and leaves you flipping through to know why.
 
