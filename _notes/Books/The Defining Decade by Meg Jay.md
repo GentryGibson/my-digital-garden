@@ -27,7 +27,11 @@ permalink: /:categories/:title
 ## 📔 Book Report
 ---
 ### 🚀 Summary
-This is a book about navigating the confusing world of the so-called "twenty-something". It argues that your twentysomething years matter despite how the popular culture depicts that age.
+This is a book about navigating the confusing world of the so-called "twenty-something". It argues that your twentysomething years matter and that "30 is not the new 20". 
+
+
+### 🥰 Who Would Like It?
+Anyone who feels lost in their twenties may find this book helpful. The book gives you a clear perspective on how to approach life in your twenties.
 
 ### 🎨 Impressions
 This is a good book for those who are about to graduate and on their way to the "real world". It will also change how you will perceive popular culture after reading this book.

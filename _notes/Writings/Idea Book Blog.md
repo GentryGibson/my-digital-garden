@@ -30,7 +30,7 @@ These are some notes I took when deciding on a blog or a digital garden. The res
 
 
 
-# References
+## References
 ---
 ### Inspiration
 - [Joschua's Garden](https://joschuasgarden.com/%E2%9C%8C%EF%B8%8F+Welcome)

@@ -34,7 +34,7 @@ Anyone who finds themselves seeking self-improvement through self-help books, mo
 
 
 ### 🎨 Impressions
-I thought this was one of those books that go against the tide of self-help books that say the same thing. Much like Quiet, this is another one of those "breath of fresh air" books.
+I thought this was one of those books that go against the tide of self-help books that say the same thing. Much like Susan Cain's Quiet, this is another one of those "breath of fresh air" books.
 
 I do like how it criticized one of the well-known inspirational quotes from the self-help genres. That quote is this: <i>Success is doing what you want, when you want, where you want, with whom you want, as much as you want.</i> If you take this to the extreme it may seem like it is encouraging you to use people as a means to get to that so-called success.
 

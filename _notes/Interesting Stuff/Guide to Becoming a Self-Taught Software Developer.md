@@ -9,7 +9,6 @@ Source: [YouTube]({{ page.source }})
 ## 1. Figure Out Your End Goal
 ---
 
-
 -   Work for a big company, startup, freelance?
 -   Web development (frontend/backend), gaming, data science, mobile apps
     -   There are many different paths in programming and technology
@@ -21,7 +20,6 @@ Source: [YouTube]({{ page.source }})
 
 ## 2. Choose a Programming Language
 ---
-
 
 -   Figure out which language you should learn for what you want to do
     -   **Python** = Data science, machine learning, and AI
@@ -38,7 +36,6 @@ Source: [YouTube]({{ page.source }})
 
 ## 3. Find Resources & Build a Curriculum
 ---
-
 
 -   **Books:** Great for learning language fundamentals
     -   Good for fundamentals, history, and programming languages
